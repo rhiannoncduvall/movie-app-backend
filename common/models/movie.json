@@ -16,19 +16,19 @@
     },
     "release_date": {
       "type": "string",
-      "required": false
+      "required": true
     },
     "vote_average": {
       "type": "number",
-      "required": false
+      "required": true
     },
     "poster_path": {
       "type": "string",
-      "required": false
+      "required": true
     },
     "overview": {
       "type": "string",
-      "required": false
+      "required": true
     }
   },
   "validations": [],
